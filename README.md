@@ -7,6 +7,6 @@ Instrucciones.
 
 Para correr la notebook basta con escribir en csv_path = "_ _ _" la ruta del archivo "ds_challenge_data_2022.csv".
 
-La ppt "Rappi_BTB" presenta los resultados del análisis.
+La PPT "Rappi_BTB" presenta los resultados del análisis.
 
 
