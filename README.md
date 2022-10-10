@@ -5,7 +5,7 @@ El notebook se divide en tres partes. En la parte (1) hacemos un análisis explo
 
 Instrucciones.
 
-Para correr la notebook basta con escribir en csv_path = "_ _ _" la ruta derl archivo "ds_challenge_data_2022.csv".
+Para correr la notebook basta con escribir en csv_path = "_ _ _" la ruta del archivo "ds_challenge_data_2022.csv".
 
 La ppt "Rappi_BTB" presenta los resultados del análisis.
 
